@@ -38,6 +38,12 @@ To run the MATLAB simulations:
 
 The project involved analyzing the position, velocity, and acceleration of the 4-bar linkage at various points in its motion. Both analytical calculations and MATLAB simulations were used to validate the results.
 
+<p align="center">
+  <img src="MATLAB code files/Theta plot.png" width="30%" />
+  <img src="MATLAB code files/Velo plot.png" width="30%" />
+  <img src="MATLAB code files/A plot.png" width="30%" />
+</p>
+
 ## Results
 
 * Smooth and realistic trunk motion achieved.
