@@ -23,7 +23,6 @@ This project involves the design, analysis, and physical prototyping of a 4-bar 
 *   `CODE.TXT`, `truck_tilgate_motion.m`: MATLAB code files for simulations.
 *   `alpha.csv`, `theta.csv`, `omega.csv`, `12.csv`: CSV data files generated for MATLAB simulations.
 *   `Truck Tilgate Motion1.pdf`: Project report detailing the methodology, analysis, and results.
-*   `HandWritten Calculations.pdf`: Scans of initial analytical calculations.
 *   `Theta plot.png`, `Velo plot.png`, `Acc plot.png`: Plots illustrating the kinematic analysis results.
 
 ## Getting Started
