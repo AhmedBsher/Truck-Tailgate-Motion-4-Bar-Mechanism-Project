@@ -37,10 +37,6 @@ To run the MATLAB simulations:
 ## Analysis
 
 The project involved analyzing the position, velocity, and acceleration of the 4-bar linkage at various points in its motion. Both analytical calculations and MATLAB simulations were used to validate the results.
-![Position analysis plot](MATLAB code files/Theta plot.png)
-![Project Screenshot](assets/screenshot.png)
-![Project Screenshot](assets/screenshot.png)
-
 
 ## Results
 
