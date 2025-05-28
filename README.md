@@ -41,7 +41,7 @@ The project involved analyzing the position, velocity, and acceleration of the 4
 <p align="center">
   <img src="MATLAB code files/Theta plot.png" width="30%" />
   <img src="MATLAB code files/Velo plot.png" width="30%" />
-  <img src="MATLAB code files/A plot.png" width="30%" />
+  <img src="MATLAB code files/Acc plot.png" width="30%" />
 </p>
 
 ## Results
