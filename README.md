@@ -41,10 +41,10 @@ The project involved analyzing the position, velocity, and acceleration of the 4
 
 ## Results
 
-• Smooth and realistic trunk motion achieved.
-• MATLAB plots show continuous and stable output motion.
-• SolidWorks simulation confirms the mechanical feasibility.
-• Physical prototype replicates the designed motion effectively.
+* Smooth and realistic trunk motion achieved.
+* MATLAB plots show continuous and stable output motion.
+* SolidWorks simulation confirms the mechanical feasibility.
+* Physical prototype replicates the designed motion effectively.
 
 ## License
 
